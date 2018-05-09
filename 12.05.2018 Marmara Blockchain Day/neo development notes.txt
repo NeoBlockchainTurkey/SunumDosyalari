@@ -1,0 +1,63 @@
+VM, Interop Services, IDE
+
+
+Hangi dillerle geliştirilir, 
+diller listele, compiler kodlarına bak 
+neon.exe yi göster. hazır olmalı, ya source code u indirip dreleyebilirsinizi, yada release versiyonun kullanabilirsiniz,
+hangi dilde yazasaksanız o dilin compiler i indirilir. 
+
+visual studio project template 
+derlenir, dll üzeritili, neon exe çalışır, avm dosyası üretilir, bu dosya deploy edilir. 
+
+avm içeriği, byte code, vm kodlarından örnek 
+
+smart contract detayları
+-- storage 
+-- block detayları
+-- is owner 
+-- notify, log
+-- c# subset 
+
+neo gui ile deploy 
+
+debugger ile debug
+-- compiler
+
+web den compile 
+
+
+nep 5 template 
+-- detayları, NEON Wallet da listtelenmesi, API ler den doğru konuşma
+
+
+deploy etmek 
+-- neo gui, neo gui developer
+-- network data download 
+
+neo cli 
+-- rpc 
+-- wallet yönetimi 
+
+api ler 
+-- neo modules 
+
+RPC, Rest, NEO Lux, 
+
+Neo Link 
+
+mainnet, test net, CoZ net, private net, net setup,
+test net için NEO&Gas isteme, GAS bedelleri
+
+Neo Local, Neo Scan, NeoDB
+
+awesome NEO, 
+
+Getting Started Docs
+
+COZ Github 
+
+Discord, Reddit,
+Competions, Competitions Projects, Awards  
+
+
+NEO Blockchain Turkey, Github, Discord
